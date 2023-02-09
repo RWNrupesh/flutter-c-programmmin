@@ -1,0 +1,46 @@
+1-What is c Token.??
+variable,constant,identifier,datatype,keywords...
+
+2-what is variable..???
+variable is container that hold the value,
+
+3-What is datatype..??
+type of data that used during program
+words char, string
+number int, float
+boolean true,false
+
+4-what is specifier..??
+int a=10;		%d for integer
+float a=10.5		%f for float
+char a='r'		%c for char
+string a='apple'	%s for string
+
+int a;	declaration
+int a=10; decla with value assign,
+
+5-how to assign value to varible..?
+fixed value at  time declaration give value to variable
+user input = scanf();
+
+6-what is constant..??
+fixed value of variable that cant be change
+
+7-how to and where you define constant..?
+in preprocessor directivity 
+with help #define,
+
+8-what is identifier..?
+name of varible or function etc know as
+identifier
+
+9-what is keywords..?
+in c language some function or operators has name
+that cant be used as variable,
+printf();
+
+10-how to create new line..?
+\n 
+
+11-how to create tab space..?
+\t
