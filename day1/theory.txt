@@ -1,0 +1,36 @@
+1-What is Programming Language..??
+
+human used language know higher level language
+machine cant understand our language,
+machine understand machine level language,
+binary language,
+set of instruction that tell the computer to perform
+various task,
+
+2-What is c programming language..??
+dennis retchie 1972 c language,
+portable application,-2 part
+	desktop application
+	mobile application
+
+3-why you need to learn c language..?
+software, application, etc..
+c language is called mother of every programming language
+faster,easy to learn,
+
+4-how and where you can write and run 
+c programs ..?
+editor	vscode,sublime,turbo c...
+compiler cmdport,
+
+5-What is The Structure of c programming..?
+
+Documentation section	= defination
+library section		=header file
+preprocessor directivity =constant value
+globle variable dec	=globle declare
+main()			=every start with main()
+sub function		=user define function
+ 
+
+
